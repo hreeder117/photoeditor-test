@@ -3,4 +3,4 @@ pandas
 numpy
 opencv-python-headless
 Image
-PIL = pillow
+PIL==pillow
